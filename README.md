@@ -28,6 +28,6 @@ This project showcases an interactive Orders Report Dashboard built using Google
 https://datastudio.google.com/reporting/c5591406-eff2-4daa-b8d9-02442ea2d5dd
 
 ## Note :
-The dataset used in this project was provided for practice purposes. My contribution was designing and developing the interactive dashboard in Google Looker Studio.
+The dataset used in this project was provided. My contribution was designing and developing the interactive dashboard in Google Looker Studio.
 
 ##  Author : Sanjana Patil
