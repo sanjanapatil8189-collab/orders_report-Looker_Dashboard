@@ -22,7 +22,7 @@ This project showcases an interactive Orders Report Dashboard built using Google
 
 ## Dashboard Preview :
 
-![Dashboard](Screenshot 2026-07-19 152815.png)
+![Dashboard](dashboard-preview.png)
 
 ## Live Dashboard :
 https://datastudio.google.com/reporting/c5591406-eff2-4daa-b8d9-02442ea2d5dd
