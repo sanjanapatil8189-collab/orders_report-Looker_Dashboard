@@ -4,6 +4,9 @@
 ## Overview :
 This project showcases an interactive Orders Report Dashboard built using Google Looker Studio. The dashboard demonstrates data visualization and reporting through interactive charts, KPI cards, filters, and tables.
 
+## Dataset :
+The dashboard is built using a provided retail orders dataset containing transactional sales data. The dataset includes information related to customers, products, orders, shipping, and sales performance.
+
 ## Tool Used :
 - Google Looker Studio
 
